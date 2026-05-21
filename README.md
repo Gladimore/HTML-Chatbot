@@ -1,6 +1,6 @@
 # HTML Chatbot
-Vibe Coded with [Claude](https://claude.ai) \
-<em>Due to it's superior context window.</em>
+Vibe Coded with [Claude](https://claude.ai) 
+###### <em>Due to it's superior context window.</em>
 
 The website is similar to many popular Chatbots, such as ChatGPT, Claude, etc. So you'll most likely be familiar with the structure & usage.
 
@@ -17,4 +17,5 @@ Fill in:
   * Select the forked repository (most likely under the name: "SimpleProxy-2.0")
   * Deploy
 
+###### Everything is saved locally.
 ### Cloudflare Workers is heavily optimized, with a median latency of 0.5ms on the provided proxy.
