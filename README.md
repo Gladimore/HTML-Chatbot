@@ -18,4 +18,4 @@ Fill in:
   * Deploy
 
 ###### Everything is saved locally.
-### Cloudflare Workers is heavily optimized, with a median latency of 0.5ms on the provided proxy.
+### Cloudflare Workers is heavily optimized, with a median wall time latency of 115ms on the provided proxy.
